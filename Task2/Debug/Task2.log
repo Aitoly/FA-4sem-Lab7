@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab7\Task2\main.cpp(109,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab7\Task2\main.cpp(109,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Xiaomi\Documents\3 семестр\Lab7\Task2\main.cpp(109,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Xiaomi\Documents\3 семестр\Lab7\Task2\main.cpp(109,21): message : this argument is used as a buffer size
+C:\Users\Xiaomi\Documents\3 семестр\Lab7\Task2\main.cpp(213,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab7\Task2\main.cpp(213,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Xiaomi\Documents\3 семестр\Lab7\Task2\main.cpp(213,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Xiaomi\Documents\3 семестр\Lab7\Task2\main.cpp(213,21): message : this argument is used as a buffer size
+  SynDictionary.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab7\Task2\SynDictionary.cpp(166,18): warning C4018: '<': signed/unsigned mismatch
+  SynWord.cpp
+  Generating Code...
+C:\Users\Xiaomi\Documents\3 семестр\Lab7\Task2\SynDictionary.cpp(106): warning C4715: 'SynDictionary::SaveDict': not all control paths return a value
+  Task2.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab7\Debug\Task2.exe
